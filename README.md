@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sasini</h1>
 <h2 align="center">A passionate Web Developer</h2>
-
-![I'm an Undergraduate at the University of Moratuwa](https://res.cloudinary.com/practicaldev/image/fetch/s--LwphdzNa-/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1468/1%2A-HtkHUxjLiK0tj6qOzdOrw.gif)
-<h3> An undergraduate at university of Moratuwa</h3>
+<h3  align="center"> An undergraduate at university of Moratuwa</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasini253&label=Profile%20views&color=0e75b6&style=flat" alt="sasini253" /> </p>
 
-- 👨‍💻 🌱 I’m currently learning (React Js,Node Js)
+- 👨‍💻 🌱 I’m currently learning Node Js  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> and  React Js <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 - 📝 I regularly write articles on [https://sashkavindi9819.medium.com/](https://sashkavindi9819.medium.com/)
 
