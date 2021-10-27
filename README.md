@@ -16,7 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<a href="https://medium.com/@sashkavini9819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sashkavini9819" height="30" width="40" /></a>
+<a href="https://sashkavindi9819.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sashkavini9819" height="30" width="40" /></a>
 </p>
 
 <!-- BLOG-POST-LIST:END -->
