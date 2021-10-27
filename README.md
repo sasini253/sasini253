@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sasini</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h2 align="center">A passionate Web Developer</h2>
+<h3> An undergraduate at university of Moratuwa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasini253&label=Profile%20views&color=0e75b6&style=flat" alt="sasini253" /> </p>
 
-- 👨‍💻 🌱 I’m currently learning [React Js,Node Js](React Js,Node Js)
+- 👨‍💻 🌱 I’m currently learning (React Js,Node Js)
 
 - 📝 I regularly write articles on [https://sashkavindi9819.medium.com/](https://sashkavindi9819.medium.com/)
 
