@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasini</h1>
-<h3 align="center">An undergraduate at University Of Moratuwa</h3>
+
 
 
 
